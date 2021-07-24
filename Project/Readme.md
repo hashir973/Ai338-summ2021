@@ -138,6 +138,7 @@ output.to_csv('Linear-Submission.csv',index=False)
 
 
 
+![WhatsApp Image 2021-07-24 at 5 07 27 AM](https://user-images.githubusercontent.com/65955079/126867958-c10819fb-155c-4a49-bbf4-01b1763b6943.jpeg)
 
 
 ![svm](https://user-images.githubusercontent.com/53654229/126365125-d60e6725-94a1-4625-b03c-f5746da76d9b.jpeg)

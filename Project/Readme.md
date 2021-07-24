@@ -137,7 +137,7 @@ output.to_csv('Linear-Submission.csv',index=False)
 "Linear classifiers classify data into labels based on a linear combination of input features. Therefore, these classifiers separate data using a line or plane or a hyperplane (a plane in more than 2 dimensions). They can only be used to classify data that is linearly separable."
 
 
-
+![WhatsApp Image 2021-07-24 at 4 57 52 AM](https://user-images.githubusercontent.com/65955079/126867740-fba92f21-8280-4abe-8dde-afa93e258420.jpeg)
 
 
 ![svm](https://user-images.githubusercontent.com/53654229/126365125-d60e6725-94a1-4625-b03c-f5746da76d9b.jpeg)

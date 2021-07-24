@@ -146,3 +146,5 @@ output.to_csv('Linear-Submission.csv',index=False)
 
 
 ![linear](https://user-images.githubusercontent.com/82328789/126365453-49b628ad-08b4-4e28-9010-cc0fa56b75f5.jpeg)
+
+linear model is better as compare to knn and svm because it has highest accuracy.
